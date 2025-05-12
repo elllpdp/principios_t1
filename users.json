@@ -1,0 +1,103 @@
+{
+    "users": [
+        {
+            "user": "yopo",
+            "mail": "yopo@uchile.cl",
+            "password": "tengotuto",
+            "balance": 2.0,
+            "operations": [
+                "2025-05-07 18:35:53 Cambio de contrase\u00f1a",
+                "2025-05-11 18:28:33 Cambio de contrase\u00f1a",
+                "2025-05-11 18:28:33 Carga de $1000",
+                "2025-05-11 18:38:43 Compra de Pikachu Shiny",
+                "2025-05-11 18:38:43 Recibo de Pikachu Shiny",
+                "2025-05-11 21:24:11 Carga de $2"
+            ],
+            "cards": [
+                0
+            ]
+        },
+        {
+            "user": "test",
+            "mail": "test@test.com",
+            "password": "1234",
+            "balance": 700.0,
+            "operations": [
+                "2025-05-11 17:11:56 Cambio de contrase\u00f1a",
+                "2025-05-11 17:23:37 Carga de $2000",
+                "2025-05-11 17:23:37 Compra de Snorlax Gigante",
+                "2025-05-11 18:38:43 Recibo de Snorlax Gigante"
+            ],
+            "cards": [
+                3
+            ]
+        },
+        {
+            "user": "vallenar",
+            "mail": "vallenar@solar.cl",
+            "password": "elMejor",
+            "balance": 0,
+            "operations": [],
+            "cards": []
+        },
+        {
+            "user": "maipu",
+            "mail": "maipu@maipu.cl",
+            "password": "lamejorcomunadelmundo",
+            "balance": 0,
+            "operations": [],
+            "cards": []
+        },
+        {
+            "user": "elintercambiador",
+            "mail": "elintercambiador@decartas.com",
+            "password": "unshiny",
+            "balance": 0,
+            "operations": [],
+            "cards": []
+        },
+        {
+            "user": "pikachu",
+            "mail": "pikachu@pokemon.jp",
+            "password": "PikaPika",
+            "balance": 0,
+            "operations": [],
+            "cards": []
+        },
+        {
+            "user": "saludos",
+            "mail": "saludos@hola.com",
+            "password": "holaAAAa",
+            "balance": 0,
+            "operations": [],
+            "cards": []
+        }
+    ],
+    "executives": [
+        {
+            "user": "elpepe",
+            "mail": "pepe@uchile.cl",
+            "password": "ElPepe"
+        },
+        {
+            "user": "eliann",
+            "mail": "iann@uchile.cl",
+            "password": "ElColo"
+        },
+        {
+            "user": "elrena",
+            "mail": "rena@uchile.cl",
+            "password": "LaU"
+        },
+        {
+            "user": "elpipe",
+            "mail": "pipe@uchile.cl",
+            "password": "Wuau"
+        },
+        {
+            "user": "karin",
+            "mail": "karin@uchile.cl",
+            "password": "catrina"
+        }
+    ]
+}

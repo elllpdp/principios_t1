@@ -1,0 +1,44 @@
+{
+    "cards": [
+        {
+            "name": "Pikachu Shiny",
+            "price": 1000,
+            "state": 2
+        },
+        {
+            "name": "Charizard EX",
+            "price": 2500,
+            "state": 0
+        },
+        {
+            "name": "Mewtwo VMAX",
+            "price": 1800,
+            "state": 0
+        },
+        {
+            "name": "Snorlax Gigante",
+            "price": 1300,
+            "state": 2
+        },
+        {
+            "name": "Eevee Evoluciones",
+            "price": 1500,
+            "state": 0
+        },
+        {
+            "name": "Rayquaza Dorado",
+            "price": 3000,
+            "state": 0
+        },
+        {
+            "name": "Lucario GX",
+            "price": 1200,
+            "state": 0
+        },
+        {
+            "name": "Pikachu",
+            "price": 8.0,
+            "state": 0
+        }
+    ]
+}
